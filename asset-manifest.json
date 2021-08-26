@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AlpacaGoesCrazy/static/css/main.a8ed1ebe.chunk.css",
+    "main.js": "/AlpacaGoesCrazy/static/js/main.7ac714ad.chunk.js",
+    "main.js.map": "/AlpacaGoesCrazy/static/js/main.7ac714ad.chunk.js.map",
+    "runtime-main.js": "/AlpacaGoesCrazy/static/js/runtime-main.2b5822d0.js",
+    "runtime-main.js.map": "/AlpacaGoesCrazy/static/js/runtime-main.2b5822d0.js.map",
+    "static/js/2.f3093ce4.chunk.js": "/AlpacaGoesCrazy/static/js/2.f3093ce4.chunk.js",
+    "static/js/2.f3093ce4.chunk.js.map": "/AlpacaGoesCrazy/static/js/2.f3093ce4.chunk.js.map",
+    "index.html": "/AlpacaGoesCrazy/index.html",
+    "static/css/main.a8ed1ebe.chunk.css.map": "/AlpacaGoesCrazy/static/css/main.a8ed1ebe.chunk.css.map",
+    "static/js/2.f3093ce4.chunk.js.LICENSE.txt": "/AlpacaGoesCrazy/static/js/2.f3093ce4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b5822d0.js",
+    "static/js/2.f3093ce4.chunk.js",
+    "static/css/main.a8ed1ebe.chunk.css",
+    "static/js/main.7ac714ad.chunk.js"
+  ]
+}
